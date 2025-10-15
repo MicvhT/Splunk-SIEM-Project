@@ -1,2 +1,2 @@
 Splunk-SIEM-Project
-![VirtualBox Virtual Machines](\Users\miket\Documents\PersonalProject_SIEM\VirtualBox_AllVMs.png)
+![VirtualBox Virtual Machines](VirtualBox_AllVMs.png)
